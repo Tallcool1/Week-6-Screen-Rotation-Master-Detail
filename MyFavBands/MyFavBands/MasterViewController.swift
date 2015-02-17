@@ -35,7 +35,7 @@ class MasterViewController: UITableViewController {
         
 //4) Populate Array of band names from images you downloaded. Names must match file names without file extenstion .jpg
         
-listArray = ["Joe Cocker","Leonard Skynard","Eagles","Journey", "38 Special","Miranda Lambert", "Little Big Town","Band Perry"]
+listArray = ["George Strait","Shania Twain","Tim McGraw","Journey", "38 Special","Miranda Lambert", "Little Big Town","Band Perry"]
         
 //5) Comment out Add Button - 2 lines
         
